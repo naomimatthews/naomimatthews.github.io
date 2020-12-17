@@ -2794,7 +2794,7 @@ input, select, textarea {
 		}
 
 		table th {
-			color: #000000;
+			color: #FFFFFF;
 			font-size: 0.9rem;
 			font-weight: 600;
 			padding: 0 0.75rem 0.75rem 0.75rem;
@@ -3181,7 +3181,7 @@ input, select, textarea {
 				background-position: center;
 				background-repeat: no-repeat;
 				background-size: contain;
-				color: #000000;
+				color: #FFFFFF;
 				display: block;
 				font-size: 1.25rem;
 				height: 3.25rem;
@@ -3224,7 +3224,7 @@ input, select, textarea {
 		#wrapper:before {
 			background-attachment: fixed;
 			background-color: #000000;
-		
+
 			background-position: -50% 10%;
 			background-repeat: repeat-y;
 			background-size: 75% auto;
